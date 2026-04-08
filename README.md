@@ -3,8 +3,6 @@ A 3-page Power BI dashboard built on 11,750 deals and 117,500 activities to answ
 # Global B2B Sales Pipeline & Deals Analytics
 ### FP20 Analytics Challenge 35 | Power BI Dashboard
 
-![Dashboard Preview](screenshots/overview.png)
-
 ---
 
 ## The Problem
@@ -39,7 +37,7 @@ Without answers to these questions, every revenue target was essentially a guess
 ### Page 1 — Executive Overview
 Built for leadership. Answers the big picture questions at a glance.
 
-**5 KPI Cards:** Total Pipeline Value · Revenue Won · Win Rate % · Weighted Forecast · Avg Deal Value — each with YoY trend, directional icon and colour coding (green / amber / red)
+**5 KPI Cards:** Total Pipeline Value · Revenue Won · Win Rate % · Weighted Forecast · Avg Deal Value — each with YoY trend, directional icon and colour coding (green, red)
 
 **5 Visuals:**
 - Line and Clustered Column Chart — pipeline value and deal volume over time
@@ -49,6 +47,8 @@ Built for leadership. Answers the big picture questions at a glance.
 - Matrix Heatmap — seasonal deal closure patterns by month and year
 
 **Key Finding:** Closing stage converts at only 41.86% while every other stage is above 82%. Deals are reaching the finish line and dying there.
+
+![Sales Pipeline Overview](Sales%20Pipeline%20Overview.png)
 
 ---
 
@@ -65,6 +65,9 @@ Built for sales managers. Answers who is performing and why.
 
 **Key Finding:** High Engagement Win Rate (59.31%) is almost identical to overall Win Rate (60.21%) — more activity is not the answer. Demo and Workshop activities are what actually separate Won deals from Lost deals.
 
+![Sales Performance](Sales%20Pipeline%20-%20Sales%20Performance.png)
+
+
 ---
 
 ### Page 3 — Risk, Forecast & Product Intelligence
@@ -79,6 +82,8 @@ Built for operations and revenue leadership. Answers what is at risk today.
 - Bar Chart — at-risk deal count by rep name
 
 **Key Finding:** £606M of open pipeline (59% of total) has had no activity in 30+ days. The weighted forecast consistently runs above actual revenue indicating stage probabilities are too optimistic.
+
+![Risk Forecast and Product Intelligence](Sales%20Pipeline%20-%20Risk%2C%20Forecast%20%26%20Product%20Intelligence.png)
 
 ---
 
